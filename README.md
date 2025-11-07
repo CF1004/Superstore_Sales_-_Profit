@@ -17,21 +17,27 @@ A dual-axis time-series chart showing:
 - Profit (area) to represent earnings.
 
 This makes divergence visible (e.g., high sales + low profit = margin pressure).
+
 ---
+
 2. Profit by Category
 Horizontal bar chart that breaks down:
 - Product Categories and Sub-Categories
 - Showing which product lines drive profit and which produce losses.
 
 Reveals margin inefficiencies clearly.
+
 ---
+
 3. Sales by Region (Interactive Map - all data adjusts when you click on a state to show only data of that specific state in the other charts)
 A filled map showing:
 - Sales performance across U.S. States
 - Light = Low Sales; Dark = High Sales
 
 Quickly highlights strong territories.
+
 ---
+
 4. Profit vs Sales Scatter Plot
 - X-axis: Sales
 - Y-axis: Profit
