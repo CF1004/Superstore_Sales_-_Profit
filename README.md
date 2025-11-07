@@ -57,7 +57,7 @@ Inefficient Sub-Categories (high sales + negative profit).
 
 1. Download the `.twbx` file included in this repository.  
 2. Open it in **Tableau Public** (free version available at [public.tableau.com](https://www.tableau.com/community/public)).  
-3. Click on a State in order for all other charts to update and show only data for this specific state.
+3. Click on a State in order for all other charts to update and show only data for this specific State.
 
 ## 🔍 Key Insights
 - Technology drives strong revenue growth.
