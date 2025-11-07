@@ -32,7 +32,8 @@ Quickly highlights strong territories.
 4. Profit vs Sales Scatter Plot
 - X-axis: Sales
 - Y-axis: Profit
-Color: Product Category
+- Color: Product Category
+
 This helps identify high and low performers and
 Inefficient Sub-Categories (high sales + negative profit).
 
